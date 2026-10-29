@@ -1,2 +1,1 @@
-drive mad .
-..
+drive mad 
